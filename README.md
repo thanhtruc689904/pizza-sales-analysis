@@ -4,10 +4,10 @@ Mình đã viết lại README theo đúng style bạn gửi nhưng **custom l�
 
 ---
 
-🍕 Pizza Sales Data Analyst Portfolio Project
+-🍕 Pizza Sales Data Analyst Portfolio Project
 This project represents a complete, end-to-end data analytics workflow, simulating real-world business analysis tasks in a sales environment. It demonstrates how raw transaction data can be transformed into meaningful insights to support data-driven decision-making.
 This project is ideal for:
-📊 Data Analyst interns building a strong portfolio
+-Data Analyst interns building a strong portfolio
 📚 Learners practicing Python, SQL, and Power BI
 💼 Preparing for Data Analyst interviews
 Project Overview
